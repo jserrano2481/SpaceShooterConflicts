@@ -237,7 +237,7 @@ TextureImporter:
       213: 3863132763714562636
     second: Projectiles_77
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -258,6 +258,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -296,6 +297,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -323,6 +325,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1984,6 +1998,85 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Projectiles_60: 208037081697269279
+      Projectiles_6: -6279456895065661009
+      Projectiles_8: 6619314781488728338
+      Projectiles_57: 482117408195429716
+      Projectiles_43: -6851703412131169642
+      Projectiles_69: 3312424828676687897
+      Projectiles_72: -2546388939089435181
+      Projectiles_4: 2013881728091588454
+      Projectiles_70: 1362369132515615283
+      Projectiles_19: 867990508093101272
+      Projectiles_33: 1973350318732348030
+      Projectiles_37: -6150715505473008871
+      Projectiles_14: 1806328813143814506
+      Projectiles_42: 2680770668749999154
+      Projectiles_21: -5238077631409149052
+      Projectiles_16: 7082447657402343466
+      Projectiles_32: -67856217886510048
+      Projectiles_44: 4430833295311641142
+      Projectiles_3: 4206860055589038045
+      Projectiles_7: 6785065089883377421
+      Projectiles_18: 2045186359979343058
+      Projectiles_45: 4737275558366491924
+      Projectiles_39: 18153826537224128
+      Projectiles_13: -5756113127150281415
+      Projectiles_12: -3060189988326637263
+      Projectiles_9: 6463688918236817238
+      Projectiles_28: -3628530191092909164
+      Projectiles_71: -6944814137419211805
+      Projectiles_5: -3893359675434764019
+      Projectiles_41: -6961944268320995680
+      Projectiles_26: 3901950792775414541
+      Projectiles_51: -3782291721686710910
+      Projectiles_11: -7298431871742164925
+      Projectiles_22: 7042789390418802987
+      Projectiles_47: 6471135353210243972
+      Projectiles_73: -5234792661718088489
+      Projectiles_1: 6781167332700664777
+      Projectiles_52: -783711196191574285
+      Projectiles_66: -566369282858306519
+      Projectiles_0: 1252243683051303324
+      Projectiles_59: -8179881623770385752
+      Projectiles_76: -5404080676413451202
+      Projectiles_36: 4648963951118929030
+      Projectiles_34: -2185225175604635803
+      Projectiles_53: 8500826546645435943
+      Projectiles_40: 7668887506635716482
+      Projectiles_38: 6100719780392119087
+      Projectiles_56: 7161259258974974020
+      Projectiles_54: -7052686184925263541
+      Projectiles_63: 8474943749400952907
+      Projectiles_30: -5088302691899321760
+      Projectiles_10: -6102721541703170594
+      Projectiles_35: 5712443625017073381
+      Projectiles_65: 7373798329416164913
+      Projectiles_2: -3548031942192175384
+      Projectiles_68: -4580146865918687515
+      Projectiles_75: 2505024643139293510
+      Projectiles_55: 4994944508864827613
+      Projectiles_58: -8901132953901400191
+      Projectiles_74: -4381629899046093124
+      Projectiles_61: 4601659813547332939
+      Projectiles_31: -1044620298981289580
+      Projectiles_23: -3785512981352810796
+      Projectiles_49: -8102953953040184807
+      Projectiles_20: 8776443168859238606
+      Projectiles_15: 1974305618712107388
+      Projectiles_50: -167658336504927129
+      Projectiles_64: 7986331934349010764
+      Projectiles_46: 7010397363330117603
+      Projectiles_27: -8092923757046829498
+      Projectiles_62: -8406737349817444012
+      Projectiles_67: 2800807928501418699
+      Projectiles_77: 3863132763714562636
+      Projectiles_17: 3479081744765220556
+      Projectiles_48: -4936653383239365833
+      Projectiles_25: 4972295995678454586
+      Projectiles_29: 8390740942291043251
+      Projectiles_24: -6169128523896138249
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
